@@ -36,4 +36,5 @@
     ```pipenv install --dev```
 
 10. Запуск модуля
+
     ```python main.py```
