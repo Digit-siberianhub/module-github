@@ -12,7 +12,7 @@ logging.basicConfig(
     format="[%(levelname)s] -  %(name)s - (%(filename)s).%(funcName)s(%(lineno)d) - %(message)s"
 )
 
-TIME = 10
+TIME = 300
 git = GitHub(creds.ORGANIZATION, creds.GITHUB_TOKEN)
 db = DBApi(creds.DATABASE_URL)
 core = CoreAPI(

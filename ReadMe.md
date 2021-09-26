@@ -5,8 +5,9 @@
 1. Для начала нужно получить токен для GitHub -> [инструкция](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 2. Склонировать репозиторий
-
-    ````git clone git@github.com:Digit-siberianhub/module-github.git````
+    ```
+    git clone git@github.com:Digit-siberianhub/module-github.git
+    ```
 
 3. Перейти в папку модуля
 
