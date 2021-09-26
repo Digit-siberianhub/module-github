@@ -10,8 +10,9 @@
     ```
 
 3. Перейти в папку модуля
-
-    ```cd module-github```
+    ```
+    cd module-github
+    ```
 
 4. Установить [python3.9](https://www.python.org/downloads/)
 
