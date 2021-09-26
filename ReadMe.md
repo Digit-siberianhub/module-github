@@ -6,15 +6,11 @@
 
 2. Склонировать репозиторий
 
-    ```
-    git clone git@github.com:Digit-siberianhub/module-github.git
-    ```
+    ````git clone git@github.com:Digit-siberianhub/module-github.git````
 
 3. Перейти в папку модуля
 
-    ```
-    cd module-github
-    ```
+    ```cd module-github```
 
 4. Установить [python3.9](https://www.python.org/downloads/)
 
@@ -22,9 +18,7 @@
 
 6. Установить пакетный менеджер [pipenv](https://webdevblog.ru/pipenv-rukovodstvo-po-novomu-instrumentu-python/)
 
-    ```
-    pip install pipenv
-    ```
+    ```pip install pipenv```
 
 7. В корне создать файл **.env**
 
@@ -37,18 +31,12 @@
 
 9. Создать виртуальное окружение через pipenv
 
-    ```
-    pipenv shell
-    ```
+    ```pipenv shell```
 
 10. Установить все необходимые зависимости
 
-    ```
-    pipenv install --dev
-    ```
+    ```pipenv install --dev```
 
 11. Запуск модуля
 
-    ```
-    python main.py
-    ```
+    ```python main.py```
